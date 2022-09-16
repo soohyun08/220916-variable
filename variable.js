@@ -1,0 +1,1 @@
+1. variable.js 문서 생성
